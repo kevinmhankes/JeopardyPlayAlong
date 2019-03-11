@@ -1,0 +1,2 @@
+json_key_file("/Users/Kevin/Documents/Programming/AndroidStudioProjects/JeopardyPlayAlong/google_play.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.kevinmhankes.jeopardyplayalong") # e.g. com.krausefx.app

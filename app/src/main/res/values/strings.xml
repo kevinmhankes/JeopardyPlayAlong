@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Jeopardy Play Along</string>
+    <string name="start_game">Start Game!</string>
+    <string name="daily_double">Daily Double</string>
+    <string name="daily_double_correctness">Did you answer the daily double correctly?</string>
+    <string name="final_jeopardy_correctness">Did you answer the final question correctly?</string>
+    <string name="invalid_daily_double_wager">Your daily double wager must be between $5 and $%1$d</string>
+    <string name="invalid_final_jeopardy_wager">Your Final Jeopardy wager must be between $0 and $%1$d</string>
+    <string name="final_total">Your final total is: $%1$d!</string>
+    <string name="total">%1$d</string>
+    <string name="double_jeopardy">Double Jeopardy</string>
+    <string name="final_jeopardy">Final Jeopardy</string>
+    <string name="make_final_wager">Make Your Final Jeopardy Wager</string>
+    <string name="finish_game">Finish Game</string>
+    <string name="start_new_game">Start New Game</string>
+    <string name="dollar_sign">$ %1$d</string>
+    <string name="n200">$200</string>
+    <string name="n400">$400</string>
+    <string name="n600">$600</string>
+    <string name="n800">$800</string>
+    <string name="n1000">$1000</string>
+    <string name="n1200">$1200</string>
+    <string name="n1600">$1600</string>
+    <string name="n2000">$2000</string>
+</resources>
